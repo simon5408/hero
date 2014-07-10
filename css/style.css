@@ -25,17 +25,17 @@ div {font-size:12px;	font-family:Arial, Helvetica, sans-serif;	color:#404040;}
 .lcon {padding-top:15px; padding-bottom:15px; border-left:1px solid #dddddd; border-right:1px solid #dddddd; border-top:2px solid #01a29c; border-bottom:1px solid #dddddd;}
 .lcon a {display:block; color:#666;}
 .lcon ul {margin-top:8px;}
-.lcon .menua {background:url(/images/left_sortend.jpg) no-repeat center bottom; padding-left:20px; padding-bottom:20px;}
+.lcon .menua {background:url(../images/left_sortend.jpg) no-repeat center bottom; padding-left:20px; padding-bottom:20px;}
 .lcon .menua .tit {font-size:14px; font-weight:bold;}
 .lcon .menu_enda {background:none}
-.lcon .suba li {text-indent:12px; height:30px; line-height:30px; font-size:12px; font-weight:normal; background:url(/images/plus1.png) no-repeat left center;}
-.lcon .jiantou {text-indent:12px; background:url(/images/plus1.png) no-repeat left center;}
+.lcon .suba li {text-indent:12px; height:30px; line-height:30px; font-size:12px; font-weight:normal; background:url(../images/plus1.png) no-repeat left center;}
+.lcon .jiantou {text-indent:12px; background:url(../images/plus1.png) no-repeat left center;}
 #content_right {font-size:12px;	float:left;	padding-left:20px; padding-bottom:80px;	width:740px; line-height:18px;}
-#content_right .rtit {font-size:14px; font-weight:bold; color:#666; text-indent:12px; margin-bottom:20px; padding-top:11px; padding-bottom:10px; background:url(/images/plus1.png) no-repeat left 16px; border-bottom:1px solid #dddddd}
+#content_right .rtit {font-size:14px; font-weight:bold; color:#666; text-indent:12px; margin-bottom:20px; padding-top:11px; padding-bottom:10px; background:url(../images/plus1.png) no-repeat left 16px; border-bottom:1px solid #dddddd}
 #content_right .rcon {color:#717071}
 
 .pronav {color:#666; font-size:14px; height:30px; border-bottom: 1px solid #00a29b;}
-.pronav .protit {float:left; font-size:14px; font-weight:bold; color:#666; text-indent:12px; background:url(/images/plus1.png) no-repeat left 7px;}
+.pronav .protit {float:left; font-size:14px; font-weight:bold; color:#666; text-indent:12px; background:url(../images/plus1.png) no-repeat left 7px;}
 .pronav ul {float:right;}
 .pronav li {text-align:center; height:30px; line-height:30px; margin-left:5px; float:left; background:#d2d4d3;}
 .pronav li a {display:block; padding-left:30px; padding-right:30px;}
@@ -43,7 +43,7 @@ div {font-size:12px;	font-family:Arial, Helvetica, sans-serif;	color:#404040;}
 
 .procon {padding-top:30px; padding-left:30px; font-size:14px; }
 .procon #download {height:570px;}
-.procon #download li {height:30px; line-height:30px; text-indent:12px; background:url(/images/plus1.png) no-repeat left center; border-bottom: 1px dashed #dddddd;}
+.procon #download li {height:30px; line-height:30px; text-indent:12px; background:url(../images/plus1.png) no-repeat left center; border-bottom: 1px dashed #dddddd;}
 .procon #download span {float:right}
 
 .rcon {}
@@ -53,7 +53,7 @@ div {font-size:12px;	font-family:Arial, Helvetica, sans-serif;	color:#404040;}
 .table_list a {height:25px; line-height:25px; font-size:12px; color:#666; text-decoration:none;}
 .table_list .trtit {}
 .table_list .th_right {text-align:right}
-.table_list .ntit {width:80%; text-indent:12px; background:url(/images/plus2.png) no-repeat left center;}
+.table_list .ntit {width:80%; text-indent:12px; background:url(../images/plus2.png) no-repeat left center;}
 .table_list .ndate {width:20%; text-align:right; color:#666; font-size:12px}
 
 .down_list {width:600px; border-collapse:collapse; border-spacing:0; margin-top:-4px; margin-left:-30px}
@@ -61,33 +61,14 @@ div {font-size:12px;	font-family:Arial, Helvetica, sans-serif;	color:#404040;}
 .down_list a {height:25px; line-height:25px; font-size:12px; color:#666; text-decoration:none;}
 .down_list .trtit {}
 .down_list .th_right {text-align:right}
-.down_list .ntit {width:80%; text-indent:12px; background:url(/images/plus2.png) no-repeat left center;}
+.down_list .ntit {width:80%; text-indent:12px; background:url(../images/plus2.png) no-repeat left center;}
 .down_list .ndate {width:20%; text-align:right; color:#666; font-size:12px}
 
 div.footer {clear:both; height:50px; border-top:1px solid #dddddd; background:#e7e7e7; width:1000px; margin:0 auto;}
 div.footer span.finfo{ width:1000px; display:block; padding-top:5px;}
 span.finfo p{text-align:left; font:11px/18px "Microsoft YaHei"; color:#666;}
 span.finfo p.pd10{ padding-left:10px;}
-span.finfo a.sicon{ width:112px; margin-top:0px;height:40px; float:right;display:inline-block;background:url(/media/2013/images/default/fsiteicon.gif) left top no-repeat;}
-/*
-#CONTAINER #MENU {
-	height: 46px;
-	/*width: 1000px;*/
-	/*background-image:url(/images/menu_b.png);*/
-	/*background-repeat:repeat-x;
-}
-
-#CONTAINER #MAIN_CONTENT #HP_LEFTBAR #NewsSection #News_left #ProductNews {
-	padding-left: 10px;
-	padding-top: 20px;
-}
-
-#CONTAINER #MAIN_CONTENT #HP_LEFTBAR {
-	float: left;
-	border-right:2px solid #dfdfdf;
-}
-*/
-
+span.finfo a.sicon{ width:112px; margin-top:0px;height:40px; float:right;display:inline-block;background:url(../images/fsiteicon.gif) left top no-repeat;}
 
 #CONTAINER #MAIN_CONTENT #content_right2 {
 	float: left;
@@ -122,7 +103,6 @@ ul.navs li ul.subnav2 {
 	left: 220px; top: 0px;
 	margin: 0; padding: 0;
 	display: none;
-	/*float: left; background: url(/images/background.png);*/
 	background:#01a29a;
 }
 ul.navs li ul.subnav2 li{
@@ -156,9 +136,9 @@ html ul.navs li ul.subnav2 li a:hover { /*--Hover effect for subnav links--*/
 .block .content {}
 .block .content div { line-height:18px;color:#666464; font-size:12px;}
 
-.productmenubg {background:url(/images/protitle_bg2.gif) repeat-x; height:42px;line-height:42px; width:236px; display:block;}
-.productmenubg:hover {background:url(/images/protitle_bg1.gif) repeat-x; height:42px;line-height:42px; width:236px; display:block;}
-.productmenubgon {background:url(/images/protitle_bg1.gif) repeat-x; height:42px;line-height:42px; width:236px; display:block;}
+.productmenubg {background:url(../images/protitle_bg2.gif) repeat-x; height:42px;line-height:42px; width:236px; display:block;}
+.productmenubg:hover {background:url(../images/protitle_bg1.gif) repeat-x; height:42px;line-height:42px; width:236px; display:block;}
+.productmenubgon {background:url(../images/protitle_bg1.gif) repeat-x; height:42px;line-height:42px; width:236px; display:block;}
 .downloadtd { background-color:#D4D5D5;}
 .downloadtd:hover { background-color:#37A414; color:#FFFFFF;}
 .downloadtitle {color:#666666;}

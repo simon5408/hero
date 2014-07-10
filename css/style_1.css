@@ -1,35 +1,20 @@
 @charset "utf-8";
 
 div.header{ height:68px; width:1000px; margin:0 auto;}
-div.header span.logo{ height:36px; width:418px; display:block; float:left;background:url(/media/2013/images/default/logo.gif) left top no-repeat; margin-top:20px;}
+div.header span.logo{ height:36px; width:418px; display:block; float:left;background:url(../images/logo.gif) left top no-repeat; margin-top:20px;}
 span.serlink {float:right; width:300px; height:68px; text-align:right}
 span.serlink .online_order {height:35px;}
-span.serlink .online_order a {background:url(/media/2013/images/default/linkp.gif) left 5px no-repeat; font:12px/35px "arial"; color:#999; text-decoration:none; padding-left:15px;}
+span.serlink .online_order a {background:url(../images/linkp.gif) left 5px no-repeat; font:12px/35px "arial"; color:#999; text-decoration:none; padding-left:15px;}
 span.serlink .lan {font-family:"arial"; font-size:12px; color:#0ba29a;}
 span.serlink .lan select {font-family:"arial"; border:1px solid #0ba29a;}
 
-/*
-span.serlink p a.en {background:url(/media/2013/images/default/linkp.gif) left 5px no-repeat;}
-span.serlink p a.py {background:url(/media/2013/images/default/linkp.gif) left -45px no-repeat; margin-left:10px;}
-span.search {float:right; text-align:right; width:160px; height:21px; border:1px solid #ddd; display:block;}
-span.search input.ipt {width:130px; height:20px;font:12px/20px "Simsun"; color:#8a8a8a; border:0; border-right:1px solid #ddd; background:none; padding-left:3px;}
-span.search input.btn {width:24px; height:21px;background:url(/media/2013/images/default/serbtn.gif) center center no-repeat; cursor:pointer; border:none; padding:0; vertical-align:top;}
-*/
-
-/*
-div.menu{ height:34px; padding-top:2px;background:url(/media/2013/images/default/menu_bg.gif) left top repeat-x; width:1000px; margin:0 auto;}
-div.menu ul.navs{ height:32px; width:1000px; margin:0 auto;}div.menu ul.navs li{ float:left; height:32px;background:url(/media/2013/images/default/nav_bor.gif) right center no-repeat;}
-div.menu ul.navs li.del_bor{background:none;}
-div.menu ul.navs li a{ float:left; height:32px;font:12px/32px "Arial"; color:#757575; text-decoration:none; padding:0 30px; margin-right:3px;}
-div.menu ul.navs li a.cur,div.menu ul.navs li a:hover{background:#00a29a url(/media/2013/images/default/nav_acur.gif) left top repeat-x; color:#fff;}
-*/
 /*** 2013 ¸Ä°æ ***/
-div.menu {height:34px; padding-top:2px;background:url(/media/2013/images/default/menu_bg.gif) left top repeat-x; width:1000px; margin:0 auto;}
+div.menu {height:34px; padding-top:2px;background:url(../images/menu_bg.gif) left top repeat-x; width:1000px; margin:0 auto;}
 div.menu ul.navs {height:32px; width:1000px; margin:0 auto;}
-div.menu ul.navs li {float:left; height:32px;background:url(/media/2013/images/default/nav_bor.gif) right center no-repeat; position:relative;}
+div.menu ul.navs li {float:left; height:32px;background:url(../images/nav_bor.gif) right center no-repeat; position:relative;}
 div.menu ul.navs li.del_bor {background:none;}
 div.menu ul.navs li a {text-align:left; float:left; height:32px; font-weight:bold; font:14px/32px "Arial"; color:#757575; text-decoration:none; padding:0 32px; margin-right:3px;}
-div.menu ul.navs li a.cur,div.menu ul.navs li a:hover {background:#00a29a url(/media/2013/images/default/nav_acur.gif) left top repeat-x; color:#fff;}
+div.menu ul.navs li a.cur,div.menu ul.navs li a:hover {background:#00a29a url(../images/nav_acur.gif) left top repeat-x; color:#fff;}
 div.menu ul.navs li span.subhover {background-position: center bottom; cursor:pointer;} /*--Hover effect for trigger--*/
 div.menu ul.navs li ul.subnav {list-style:none; position:absolute; z-index:120; left:0; top:33px; margin:0; padding:0; display:none; float:left; background:#01a29a;}
 div.menu ul.navs li ul.subnav li{margin:0; padding:0; clear:both; width:220px; padding-top:5px;}
@@ -44,9 +29,9 @@ div.menu ul.navs li ul.subnav li a:hover {background:#41CCC5; color:#fff;}
 
 .my_left_menu {}
 .my_left_menu .selfdef, .selfup {display:block; margin-bottom:10px; width:236px; height:45px; font-size:14px; font-family:"Simhei"; font-weight:bold; text-decoration:none; text-align:left; text-indent:65px; line-height:45px; }
-.my_left_menu .selfdef {color:#6c6c6c; background:url(/images/left_menu_bg.png)}
-.my_left_menu .selfup {color:#5e807f; background:url(/images/left_menu_bg_up.png)}
-.my_left_menu a:hover {color:#5e807f; background:url(/images/left_menu_bg_up.png)}
+.my_left_menu .selfdef {color:#6c6c6c; background:url(../images/left_menu_bg.png)}
+.my_left_menu .selfup {color:#5e807f; background:url(../images/left_menu_bg_up.png)}
+.my_left_menu a:hover {color:#5e807f; background:url(../images/left_menu_bg_up.png)}
 
 /*******************/
 #banner {padding:0px;height: 424px; }
@@ -57,8 +42,8 @@ div.menu ul.navs li ul.subnav li a:hover {background:#41CCC5; color:#fff;}
 .slide-pic li { width:100%; height:424px;overflow:hidden;display:none;}
 .slide-pic li.cur { display: block;}
 .slide-li { z-index:200; margin: 0px; padding: 0px; right:0; width:100%; text-align:center; bottom: 7px; position: absolute; font-size:0; +letter-spacing:-1; }
-.slide-li li { margin: 0px; padding: 0px; width: 10px; height: 10px; display:inline-block; *display:inline; *zoom:1; overflow: hidden; list-style: none;background:url(/media/2013/images/default/sprites.gif) left bottom no-repeat; margin-left:7px;}
-.slide-li li.cur {background:url(/media/2013/images/default/sprites.gif) left top no-repeat;}
+.slide-li li { margin: 0px; padding: 0px; width: 10px; height: 10px; display:inline-block; *display:inline; *zoom:1; overflow: hidden; list-style: none;background:url(../images/sprites.gif) left bottom no-repeat; margin-left:7px;}
+.slide-li li.cur {background:url(../images/sprites.gif) left top no-repeat;}
 .slide-li a { width: 10px; height: 10px; display: block; }
 .slide-li a:hover { color: #F00; text-decoration: none; }
 .op li.cur {}
@@ -66,11 +51,13 @@ div.menu ul.navs li ul.subnav li a:hover {background:#41CCC5; color:#fff;}
 #flash { width:1000px; height:424px; overflow:hidden; margin:0 auto; clear:both; position:relative;/*--*/}
 #flash a {width:1000px; height:424px; display:none; position:absolute; left:0; top:0;}
 #flash img {width:1000px; height:424px;/* display:none;*/}
-.flash_bar { width:80px;z-index:69;overflow:hidden; position:absolute;bottom:4px; left:50%; margin-left:-40px; background:url(../images/default/tg_flashbar.png) no-repeat 10px 0px; text-align:center;}
-.flash_bar .dq { display:block; float:left; width:10px; height:10px; margin:5px 5px;cursor:pointer;
-background:url(../images/default/tg_flash_p.gif) no-repeat 0px 0px; _background:none; sizingMethod="crop"); }
-.flash_bar .no { display:block; float:left; width:10px; height:10px; margin:5px 5px; cursor:pointer;
-background:url(../images/default/tg_flash_p2.gif) no-repeat 0px 0px; sizingMethod="crop"); }
+.flash_bar { width:80px;z-index:69;overflow:hidden; position:absolute;bottom:4px; left:50%; margin-left:-40px; background:no-repeat 10px 0px; text-align:center;}
+.flash_bar .dq { 
+	display:block; float:left; width:10px; height:10px; margin:5px 5px;cursor:pointer;
+	background:url(../images/tg_flash_p.gif) no-repeat 0px 0px; _background:none; sizingMethod="crop"); }
+.flash_bar .no { 
+	display:block; float:left; width:10px; height:10px; margin:5px 5px; cursor:pointer;
+	background:url(../images/tg_flash_p2.gif) no-repeat 0px 0px; sizingMethod="crop"); }
 #flashBg { height:393px; overflow:hidden; width:100%; clear:both; margin:0; padding:0;}
 #flashLine {height:393px; width:100%; clear:both;}
 
@@ -89,16 +76,16 @@ div.slideshow{ height:424px;}
 #focus .btn span{display:inline-block; _display:inline; _zoom:1; width:25px; height:10px; _font-size:0; margin-left:10px; cursor:pointer; background:#fff;}
 #focuss .btn span {display:inline-block; _display:inline; _zoom:1; width:25px; height:10px; _font-size:0; margin-left:5px; cursor:pointer; background:#fff;}
 
-#focus .btn span.a{height:10px; width:10px;background:url(/media/2013/images/default/sprites.gif) center top no-repeat;}
-#focus .btn span.s {height:10px; width:10px;background:url(/media/2013/images/default/sprites.gif) center bottom no-repeat;}
-#focuss .btn span.a{height:6px; width:6px;background:url(/media/2013/images/default/spritess.png) center top no-repeat;}
-#focuss .btn span.s {height:6px; width:6px;background:url(/media/2013/images/default/spritess.png) center bottom no-repeat;}
+#focus .btn span.a{height:10px; width:10px;background:url(../images/sprites.gif) center top no-repeat;}
+#focus .btn span.s {height:10px; width:10px;background:url(../images/sprites.gif) center bottom no-repeat;}
+#focuss .btn span.a{height:6px; width:6px;background:url(../images/spritess.png) center top no-repeat;}
+#focuss .btn span.s {height:6px; width:6px;background:url(../images/spritess.png) center bottom no-repeat;}
 #focus ul li.Bg01{background:url(/media/2013/images/default/slideshow01_bg.jpg) left top repeat-x;}
 #focus ul li.Bg02{background:url(/media/2013/images/default/slideshow02_bg.jpg) left top repeat-x;}
 #focus ul li.Bg03{background:url(/media/2013/images/default/slideshow03_bg.jpg) left top repeat-x;}
 #focus ul li.Bg04{background:url(/media/2013/images/default/slideshow04_bg.jpg) left top repeat-x;}
 
-div.newslist {background:#fff url(/media/2013/images/default/newslist_bg.gif) left top repeat-x; width:1000px; margin:0 auto;}
+div.newslist {background:#fff url(../images/newslist_bg.gif) left top repeat-x; width:1000px; margin:0 auto;}
 div.newslist .newsmain {width:1000px; margin:0 auto;}
 
 div.newslist .nea {text-align:left; display:block; height:226px;width:470px;float:left; padding-top:20px; padding-left:10px; padding-right:20px}
@@ -108,7 +95,7 @@ div.newslist .nec h1 {height:25px; border-bottom:1px solid #dddddd;font:700 12px
 
 div.newslist .nea h1 a.mor,
 div.newslist .neb h1 a.mor,
-div.newslist .nec h1 a.mor {display:inline-block; width:45px; height:13px;position:absolute; right:0; top:7px;background:url(/media/2013/images/default/more.gif) left top no-repeat;}
+div.newslist .nec h1 a.mor {display:inline-block; width:45px; height:13px;position:absolute; right:0; top:7px;background:url(../images/more.gif) left top no-repeat;}
 
 div.newslist .nea img,
 div.newslist .nea h2,
@@ -118,14 +105,14 @@ div.newslist .nea img {display:block; width:120px; height:80px; margin-right:20p
 div.newslist .nea p {width:160px;font:12px/20px "Arial"; color:#000; padding-left:10px; height:40px; overflow:hidden;}
 div.newslist .nea h2 {height:25px;font:12px/25px "Arial"; color:#00a29a; padding-left:15px;}
 div.newslist .nea .nealist li {height:25px;}
-div.newslist .nea .nealist li a {text-indent:12px; background:url(/images/plus2.png) no-repeat left center; font:12px/25px "Arial"; color:#000; text-decoration:none; display:block; overflow:hidden; height:25px;}
+div.newslist .nea .nealist li a {text-indent:12px; background:url(../images/plus2.png) no-repeat left center; font:12px/25px "Arial"; color:#000; text-decoration:none; display:block; overflow:hidden; height:25px;}
 div.newslist .nea .nealist li a:hover {text-decoration:underline;}
 div.newslist .nea .nealist li em {float:right;font:12px/25px "Arial"; color:#999; padding-left:5px;}
 
-div.newslist .neb {text-align:left; display:block; height:226px; width:460px;float:left; padding-top:20px; padding-left:25px; background:url(/media/2013/images/default/bgline.png) left top no-repeat;}
+div.newslist .neb {text-align:left; display:block; height:226px; width:460px;float:left; padding-top:20px; padding-left:25px; background:url(../images/bgline.png) left top no-repeat;}
 div.newslist .neb img {display:block; float:left; margin-right:20px; margin-bottom:30px}
 div.newslist .neb .nealist li {height:25px;}
-div.newslist .neb .nealist li a {text-indent:12px; background:url(/images/plus2.png) no-repeat left center; font:12px/25px "Arial"; color:#000; text-decoration:none; display:block; overflow:hidden; height:25px;}
+div.newslist .neb .nealist li a {text-indent:12px; background:url(../images/plus2.png) no-repeat left center; font:12px/25px "Arial"; color:#000; text-decoration:none; display:block; overflow:hidden; height:25px;}
 div.newslist .neb .nealist li a:hover {text-decoration:underline;}
 div.newslist .neb .nealist li em {float:right;font:12px/25px "Arial"; color:#999; padding-left:5px;}
 
@@ -135,24 +122,17 @@ div.newslist .neb .neinfo h2{height:25px;font:13px/25px "Arial"; color:#00a29a; 
 div.newslist .neb .neinfo p{font:12px/18px "Arial"; color:#000; padding-left:15px; height:90px; overflow:hidden; text-indent:10px;}
 div.newslist .neb .neinfo p a{ text-decoration:none; color:#00a29a;}
 
-div.newslist .nec {text-align:left; display:block; height:226px;float:left;+float:none; padding:20px 0 0 25px;background:url(/media/2013/images/default/bgline.png) left top no-repeat;}
+div.newslist .nec {text-align:left; display:block; height:226px;float:left;+float:none; padding:20px 0 0 25px;background:url(../images/bgline.png) left top no-repeat;}
 div.newslist .nec .video{ width:206px; height:123px; border:3px solid #c9c9c9;}
 
-/*
-div.footer{height:50px; border-top:2px solid #cdcdcd; background:#e7e7e7;width:1000px; margin:0 auto;}
-div.footer span.finfo{ width:1000px; margin:0 auto; display:block; padding-top:5px;}
-
-span.finfo p{font:11px/18px "Microsoft YaHei"; color:#666;}span.finfo p.pd10{ padding-left:10px;}
-span.finfo a.sicon{ width:112px; margin-top:0px;height:40px; float:right;display:inline-block;background:url(/media/2013/images/default/fsiteicon.gif) left top no-repeat;}
-*/
 .showAd { width:0; height:407px;  position:fixed; right:0; top:87px; overflow:hidden; z-index:200;}
 .closeAd { height:18px; width:18px; display:block; float:right; background:#f56200; color:#fff; line-height:18px; font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:14px; text-align:center}
 .aclose { height:18px;}
 .ADminCen { vertical-align:top; width:100%; height:368px; background:#060}
-.reShow { height:21px; background:#044d42 url(/media/2013/images/adre.gif) 4px center no-repeat; line-height:21px; font-size:12px; text-decoration:none; text-align:right;  font-family:Arial, Helvetica, sans-serif; color:#fff; display:block; letter-spacing:9px;}
+.reShow { height:21px; background:#044d42 url(../images/adre.gif) 4px center no-repeat; line-height:21px; font-size:12px; text-decoration:none; text-align:right;  font-family:Arial, Helvetica, sans-serif; color:#fff; display:block; letter-spacing:9px;}
 
 
-.showAdBig { display:none; text-align:center; position:absolute; width:100%; height:525px;z-index:999; left:0; top:0px; /* background: url(/media/2013/images/adBighow.jpg) repeat-x */ background: url(/media/2013/images/adBig.jpg) center center no-repeat }
+.showAdBig { display:none; text-align:center; position:absolute; width:100%; height:525px;z-index:999; left:0; top:0px; background: url(../images/adBig.jpg) center center no-repeat }
 .adbigImg { height:100%; display: inline-block; }
-#adbClos { background:url(/media/2013/images/adbigclose.gif); width:54px; height:18px; display:block; position:absolute; right:12px; bottom:-18px;}
+#adbClos { background:url(../images/adbigclose.gif); width:54px; height:18px; display:block; position:absolute; right:12px; bottom:-18px;}
 
