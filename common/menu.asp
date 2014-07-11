@@ -10,23 +10,23 @@
 	</div>
 	<div id="MENU_" class="menu">
 		<ul class="navs">
-			<li><a href="./江苏斯菲尔电气股份有限公司_files/江苏斯菲尔电气股份有限公司.htm" class="menufont" onmouseover="close_subnav ()">首页</a></li>
-			<li><a href="http://www.jcsepi.com/company/intro/" class="menufont" onmouseover="open_subnav (this, &#39;subnav_intro&#39;)">关于我们</a>	</li>
+			<li><a href="index.htm" class="menufont" onmouseover="close_subnav ()">首页</a></li>
+			<li><a href="company-info.asp" class="menufont" onmouseover="open_subnav (this, &#39;subnav_intro&#39;)">关于我们</a>	</li>
 			<li><a href="http://www.jcsepi.com/product/category/" class="menufont" onmouseover="open_subnav (this, &#39;subnav_product&#39;)">产品中心</a>	</li>
 			<li><a href="http://www.jcsepi.com/app/detail/" class="menufont" onmouseover="open_subnav (this, &#39;subnav_application&#39;)">解决方案</a></li>
-			<li><a href="http://www.jcsepi.com/service/product/" class="menufont" onmouseover="open_subnav (this, &#39;subnav_service&#39;)">服务与支持</a></li>
-			<li><a href="http://www.jcsepi.com/recruit/index/" class="menufont" onmouseover="close_subnav ()">加入我们</a></li>
-			<li><a href="http://www.jcsepi.com/news/company/" class="menufont" onmouseover="close_subnav ()">新闻中心</a></li>
-			<li class="del_bor"><a href="http://www.jcsepi.com/service/contact/" class="menufont" onmouseover="close_subnav ()">联系我们</a></li>
+			<li><a href="product.asp" class="menufont" onmouseover="open_subnav (this, &#39;subnav_service&#39;)">服务与支持</a></li>
+			<li><a href="recruit.asp" class="menufont" onmouseover="close_subnav ()">加入我们</a></li>
+			<li><a href="news.asp" class="menufont" onmouseover="close_subnav ()">新闻中心</a></li>
+			<li class="del_bor"><a href="contact.asp" class="menufont" onmouseover="close_subnav ()">联系我们</a></li>
 		</ul>
 	</div>
 
 	<!--subnav-->
 	<div id="subnav_intro" class="my_subnav" style="left: 284px; top: 104px; display: none;" onmouseout="hideSubnav (this, event)">
 		<ul>
-			<li><a href="http://www.jcsepi.com/company/intro/1/">公司概述</a></li>
-			<li><a href="http://www.jcsepi.com/company/intro/4/">荣誉资质</a></li>
-			<li><a href="http://www.jcsepi.com/company/intro/5/">公司商标</a></li> 
+			<li><a href="company-info.asp">公司概述</a></li>
+			<li><a href="company-zhizi.asp">荣誉资质</a></li>
+			<li><a href="company-logo.asp">公司商标</a></li> 
 		</ul>
 	</div>
 
@@ -83,8 +83,8 @@
 
 	<div id="subnav_service" class="my_subnav" style="display:none" onmouseout="hideSubnav (this, event)">
 		<ul>
-			<li><a href="http://www.jcsepi.com/service/product/">产品咨询</a></li>
-			<li><a href="http://www.jcsepi.com/service/faq/">常见问题解答</a></li>
+			<li><a href="product.asp">产品咨询</a></li>
+			<li><a href="faq.asp">常见问题解答</a></li>
 		</ul>
 	</div>
 	<!--/subnav-->
