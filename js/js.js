@@ -80,7 +80,7 @@ var currentindex=1;
 $("#flashBg").css("background-color",$("#flash1").attr("name"));
 function changeflash(i) {
 currentindex=i;
-for (j=1;j<=4;j++){
+for (j=1;j<=5;j++){
 	if (j==i)
 	//{$("#flash"+j).fadeIn("normal");
 	{$("#flash"+j).fadeIn(1500);

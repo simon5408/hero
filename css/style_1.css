@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 div.header{ height:68px; width:1000px; margin:0 auto;}
-div.header span.logo{ height:36px; width:418px; display:block; float:left;background:url(../images/logo.gif) left top no-repeat; margin-top:20px;}
+div.header span.logo{ height:36px; width:418px; display:block; float:left;background:url(../images/hero-logo.jpg) left top no-repeat; margin-top:20px;}
 span.serlink {float:right; width:300px; height:68px; text-align:right}
 span.serlink .online_order {height:35px;}
 span.serlink .online_order a {background:url(../images/linkp.gif) left 5px no-repeat; font:12px/35px "arial"; color:#999; text-decoration:none; padding-left:15px;}
@@ -51,7 +51,7 @@ div.menu ul.navs li ul.subnav li a:hover {background:#41CCC5; color:#fff;}
 #flash { width:1000px; height:424px; overflow:hidden; margin:0 auto; clear:both; position:relative;/*--*/}
 #flash a {width:1000px; height:424px; display:none; position:absolute; left:0; top:0;}
 #flash img {width:1000px; height:424px;/* display:none;*/}
-.flash_bar { width:80px;z-index:69;overflow:hidden; position:absolute;bottom:4px; left:50%; margin-left:-40px; background:no-repeat 10px 0px; text-align:center;}
+.flash_bar { width:100px;z-index:69;overflow:hidden; position:absolute;bottom:4px; left:50%; margin-left:-40px; background:no-repeat 10px 0px; text-align:center;}
 .flash_bar .dq { 
 	display:block; float:left; width:10px; height:10px; margin:5px 5px;cursor:pointer;
 	background:url(../images/tg_flash_p.gif) no-repeat 0px 0px; _background:none; sizingMethod="crop"); }
@@ -106,6 +106,7 @@ div.newslist .nea p {width:160px;font:12px/20px "Arial"; color:#000; padding-lef
 div.newslist .nea h2 {height:25px;font:12px/25px "Arial"; color:#00a29a; padding-left:15px;}
 div.newslist .nea .nealist li {height:25px;}
 div.newslist .nea .nealist li a {text-indent:12px; background:url(../images/plus2.png) no-repeat left center; font:12px/25px "Arial"; color:#000; text-decoration:none; display:block; overflow:hidden; height:25px;}
+div.newslist .nea .nealist li span {text-indent:12px; background:url(../images/plus2.png) no-repeat left center; font:12px/25px "Arial"; color:#000; text-decoration:none; display:block; }
 div.newslist .nea .nealist li a:hover {text-decoration:underline;}
 div.newslist .nea .nealist li em {float:right;font:12px/25px "Arial"; color:#999; padding-left:5px;}
 
