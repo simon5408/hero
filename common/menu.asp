@@ -1,10 +1,7 @@
 <div class="header">
 		<span class="logo"></span>
 		<span class="serlink">
-			<div class="online_order"><a href="#" class="en" target="_blank">在线订单</a></div>
-			<div class="lan">语言&nbsp;
-				
-			</div>
+			<div class="online_order"><a href="#" class="en" target="_blank">邮箱服务</a> <a href="login.asp" class="en">管理登陆</a></div>
 		</span>
 		
 	</div>
