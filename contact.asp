@@ -44,7 +44,8 @@
         <div style="height:1px; clear:both"> </div>
         <!-- Main Content End -->
     </div>
+</div>
 	<!-- body -->
     <!--#include file="common/footer.asp" -->
-</div>
+
 </body></html>

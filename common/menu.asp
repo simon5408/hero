@@ -30,31 +30,33 @@
 	<div id="subnav_product" class="my_subnav" style="display:none" onmouseout="hideSubnav (this, event)">
 		<ul>
 			<li>
-				<a href="#" onmouseover="open_subnav_2 (this, &#39;subnav_product_28&#39;)">电力监控</a>
-				<div id="subnav_product_28" class="my_subnav" style="display:none">
+				<a href="productZNCKYB.asp" >智能测控仪表</a>
+				<!--onmouseover="open_subnav_2 (this, &#39;subnav_product_28&#39;)" <div id="subnav_product_28" class="my_subnav" style="display:none">
 					<ul>
 						<li><a href="#">数显电测仪表</a></li>
 						<li><a href="#">电能质量监测仪</a></li>
 					</ul>
-				</div>
+				</div>-->
 			</li>
 			<li>
-				<a href="#" onmouseover="open_subnav_2 (this, &#39;subnav_product_38&#39;)">电能质量</a>
-				<div id="subnav_product_38" class="my_subnav" style="display:none">
+				<a href="productZTZSZHXSZZ.asp" >状态指示综合显示装置</a>
+				<!--onmouseover="open_subnav_2 (this, &#39;subnav_product_38&#39;)"<div id="subnav_product_38" class="my_subnav" style="display:none">
 					<ul>
 						<li><a href="#">消谐式无功补偿装置</a></li>
 						<li><a href="#">智能低压电力电容模块</a></li>
 					</ul>
-				</div>
+				</div>-->
 			</li>
 			<li>
-				<a href="#" onmouseover="open_subnav_2 (this, &#39;subnav_product_43&#39;)">电气安全</a>
-				<div id="subnav_product_43" class="my_subnav" style="display:none">
+				<a href="productZXJCBJXT.asp">在线监测报警系统</a>
+				<!-- onmouseover="open_subnav_2 (this, &#39;subnav_product_43&#39;)"<div id="subnav_product_43" class="my_subnav" style="display:none">
 					<ul>
 						<li><a href="#">电气火灾监控系统</a></li>
 					</ul>
-				</div>
-			</li>    
+				</div>-->
+			</li>
+			<li><a href="productWSDKZQ.asp">温湿度控制器</a></li>
+			<li><a href="productGYDDXSQ.asp">高压带电显示器</a></li>
 		</ul>
 	</div>
 
