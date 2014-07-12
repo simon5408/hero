@@ -26,17 +26,14 @@
 					<table cellspacing="0" cellpadding="0" border="0" style="font-size: 12px; width: 750px; color: rgb(102,102,102); height: 150px">
 						<tbody>
 							<tr>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="124" alt="" width="175" src="../images/GaoXin.jpg" /></p>
+								<td class="style5" valign="middle" width="230">
+								<p class="style3" style="text-align: center"><img height="259" alt="" width="200" src="../images/qualty/6.jpg" /></p>
 								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="124" alt="" width="175" src="../images/GaoXin.jpg" /></p>
+								<td class="style5" valign="middle" width="230">
+								<p class="style3" style="text-align: center"><img height="284" alt="" width="200" src="../images/qualty/7.jpg" /></p>
 								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="124" alt="" width="175" src="../images/GaoXin.jpg" /></p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="124" alt="" width="175" src="../images/GaoXin.jpg" /></p>
+								<td class="style5" valign="middle" width="230">
+								<p class="style3" style="text-align: center"><img height="284" alt="" width="200" src="../images/qualty/8.jpg" /></p>
 								</td>
 							</tr>
 						</tbody>
@@ -45,124 +42,83 @@
 						<tbody>
 							<tr>
 								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center">软件著作权登记证书</p>
+								</td>
+								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center">质量体系认证证书</p>
+								</td>
+								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center">产品注册备案证书</p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<p>&nbsp;</p>
+					<p>&nbsp;</p>
+					<table cellspacing="0" cellpadding="0" border="0" style="font-size: 12px; width: 750px; color: rgb(102,102,102); height: 232px">
+						<tbody>
+							<tr>
+								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center"><img height="103" alt="" width="155" src="../images/qualty/1.jpg" /></p>
+								</td>
+								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center"><img height="120" alt="" width="155" src="../images/qualty/2.jpg" /></p>
+								</td>
+								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center"><img height="116" alt="" width="155" src="../images/qualty/3.jpg" /></p>
+								</td>
+								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center"><img height="115" alt="" width="155" src="../images/qualty/4.jpg" /></p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table cellspacing="0" cellpadding="0" border="0" style="font-size: 12px; width: 750px; color: rgb(102,102,102); height: 20px">
+						<tbody>
+							<tr>
+								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center">三信三优企业认定证书</p>
+								</td>
+								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center">质量信得过企业荣誉证</p>
+								</td>
+								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center">质量诚信企业荣誉证书</p>
+								</td>
+								<td class="style5" valign="middle" width="180">
 								<p class="style3" style="text-align: center">高新技术企业证书</p>
 								</td>
+							</tr>
+						</tbody>
+					</table>
+					<p>&nbsp;</p>
+					<p>&nbsp;</p>
+					<table cellspacing="0" cellpadding="0" border="0" style="font-size: 12px; width: 750px; color: rgb(102,102,102); height: 232px">
+						<tbody>
+							<tr>
+								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center"><img height="104" alt="" width="155" src="../images/qualty/5.jpg" /></p>
+								</td>
+								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center">&nbsp;</p>
+								</td>
+								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center">&nbsp;</p>
+								</td>
+								<td class="style5" valign="middle" width="180">
+								<p class="style3" style="text-align: center">&nbsp;</p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table cellspacing="0" cellpadding="0" border="0" style="font-size: 12px; width: 750px; color: rgb(102,102,102); height: 20px">
+						<tbody>
+							<tr>
 								<td class="style5" valign="middle" width="180">
 								<p class="style3" style="text-align: center">软件企业认定证书</p>
 								</td>
 								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center">电工仪器仪表协会第五届常务理事</p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center">北京奥运工程荣誉证书</p>
-								</td>
-							</tr>
-						</tbody>
-					</table>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<table cellspacing="0" cellpadding="0" border="0" style="font-size: 12px; width: 750px; color: rgb(102,102,102); height: 232px">
-						<tbody>
-							<tr>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="219" alt="" width="155" src="../images/GaoXin.jpg" /></p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="219" alt="" width="155" src="../images/GaoXin.jpg" /></p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="219" alt="" width="155" src="../images/GaoXin.jpg" /></p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="219" alt="" width="155" src="../images/GaoXin.jpg" /></p>
-								</td>
-							</tr>
-						</tbody>
-					</table>
-					<table cellspacing="0" cellpadding="0" border="0" style="font-size: 12px; width: 750px; color: rgb(102,102,102); height: 20px">
-						<tbody>
-							<tr>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center">质量管理体系认证证书</p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center">环境管理体系认证证书</p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center">江苏省企业知识产权管理标准化示范单位证书</p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center">GB T 22264-2008标准起草单位证书</p>
-								</td>
-							</tr>
-						</tbody>
-					</table>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<table cellspacing="0" cellpadding="0" border="0" style="font-size: 12px; width: 750px; color: rgb(102,102,102); height: 232px">
-						<tbody>
-							<tr>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="219" alt="" width="155" src="../images/GaoXin.jpg" /></p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="219" alt="" width="155" src="../images/GaoXin.jpg" /></p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="219" alt="" width="155" src="../images/GaoXin.jpg" /></p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="219" alt="" width="155" src="../images/GaoXin.jpg" /></p>
-								</td>
-							</tr>
-						</tbody>
-					</table>
-					<table cellspacing="0" cellpadding="0" border="0" style="font-size: 12px; width: 750px; color: rgb(102,102,102); height: 20px">
-						<tbody>
-							<tr>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center">GB T 18216.12-2010 起草单位</p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center">UL证书</p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center">CE证书</p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center">CE证书</p>
-								</td>
-							</tr>
-						</tbody>
-					</table>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<table cellspacing="0" cellpadding="0" border="0" style="font-size: 12px; width: 750px; color: rgb(102,102,102); height: 232px">
-						<tbody>
-							<tr>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="219" alt="" width="155" src="../images/GaoXin.jpg" /></p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center"><img height="219" alt="" width="155" src="../images/GaoXin.jpg" /></p>
-								</td>
-								<td class="style5" valign="middle" width="180">
 								<p class="style3" style="text-align: center">&nbsp;</p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center">&nbsp;</p>
-								</td>
-							</tr>
-						</tbody>
-					</table>
-					<table cellspacing="0" cellpadding="0" border="0" style="font-size: 12px; width: 750px; color: rgb(102,102,102); height: 20px">
-						<tbody>
-							<tr>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center">3C证书</p>
-								</td>
-								<td class="style5" valign="middle" width="180">
-								<p class="style3" style="text-align: center">3C证书</p>
 								</td>
 								<td class="style5" valign="middle" width="180">
 								<p class="style3" style="text-align: center">&nbsp;</p>
