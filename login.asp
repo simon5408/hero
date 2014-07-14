@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-	<title>慧源教育-后台管理平台</title>
+	<title>南京汇荣电气系统-后台管理平台</title>
 	<LINK href="css/onto_style.css" type="text/css" rel="stylesheet">
 	
 	<!-- jquery js -->
@@ -114,7 +114,7 @@
 	  		<td align="center" valign="middle" width="100%" height="97%">
 	  		<div class="loginDiv">
 	  			<!-- Name -->
-	  			<div class="titleDiv">慧源教育后台管理系统</div>
+	  			<div class="titleDiv">南京汇荣电气系统后台管理系统</div>
 	  			
 	  			<!-- Operate -->
 	  			<div class="bodyDiv">

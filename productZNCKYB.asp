@@ -23,7 +23,7 @@
 						<tr>
 							<td>
 								<table width="100%" border="0" cellspacing="0" cellpadding="0">
-									<tr><td colspan="2" class="rtit">数显电测仪表<td></tr>
+									<tr><td colspan="2" class="rtit">智能测控仪表<td></tr>
 									<tr><td colspan="2" height="15"></td></tr>
 									<tr>
 										<td width="445px" valign="top"><img src="images/1309090112331379.jpg" /></td>
@@ -40,7 +40,7 @@
 												<p style="top: 12px;color:rgb(102, 102, 102); height: 23px; width: 698px;">&nbsp;</p>
 												<p style="top: 12px;color:rgb(102, 102, 102); height: 23px; width: 698px;">&nbsp;</p>
 												<p class="style6">　 &nbsp; 
-													<span style="font-size: 12px;;color: rgb(102, 102, 102);">&nbsp;数显电测仪表用于测量低压配电系统的电压、电流、频率、功率或功率因数等电参量。我公司产品包括PA19系列数显交流电流表、PZ19系列数显交流电压表、PS19系列数显交流功率表、PD19系列数显交流频率表、PD19系列数显功率因数表及数显直流电力仪表。</span>
+													<span style="font-size: 12px;;color: rgb(102, 102, 102);">&nbsp;智能测控仪表用于测量低压配电系统的电压、电流、频率、功率或功率因数等电参量。我公司产品包括PA19系列数显交流电流表、PZ19系列数显交流电压表、PS19系列数显交流功率表、PD19系列数显交流频率表、PD19系列数显功率因数表及数显直流电力仪表。</span>
 												</p>
 												<p class="style6">&nbsp;</p>
 											</p>
