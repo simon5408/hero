@@ -25,12 +25,12 @@
 				  <th class="th_right">发布日期</th>
 				</tr>
 				<tr>
-				  <td class="ntit"><a href="recruitDetail.asp">销售员</a></td>
-				  <td class="ndate">2013-05-30</td>
+				  <td class="ntit"><a href="recruitDetail.asp">销售经理</a></td>
+				  <td class="ndate">2014-09-20</td>
 				</tr>
 				<tr>
-				  <td class="ntit"><a href="recruitDetail.asp">ERP工程师</a></td>
-				  <td class="ndate">2014-02-08</td>
+				  <td class="ntit"><a href="recruitDetail.asp">调试工程师</a></td>
+				  <td class="ndate">2014-09-08</td>
 				</tr>
 			</table>
         </div>

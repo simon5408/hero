@@ -29,34 +29,14 @@
 
 	<div id="subnav_product" class="my_subnav" style="display:none" onmouseout="hideSubnav (this, event)">
 		<ul>
-			<li>
-				<a href="productZNCKYB.asp" >智能测控仪表</a>
-				<!--onmouseover="open_subnav_2 (this, &#39;subnav_product_28&#39;)" <div id="subnav_product_28" class="my_subnav" style="display:none">
-					<ul>
-						<li><a href="#">数显电测仪表</a></li>
-						<li><a href="#">电能质量监测仪</a></li>
-					</ul>
-				</div>-->
-			</li>
-			<li>
-				<a href="productZTZSZHXSZZ.asp" >状态指示综合显示装置</a>
-				<!--onmouseover="open_subnav_2 (this, &#39;subnav_product_38&#39;)"<div id="subnav_product_38" class="my_subnav" style="display:none">
-					<ul>
-						<li><a href="#">消谐式无功补偿装置</a></li>
-						<li><a href="#">智能低压电力电容模块</a></li>
-					</ul>
-				</div>-->
-			</li>
-			<li>
-				<a href="productZXJCBJXT.asp">在线监测报警系统</a>
-				<!-- onmouseover="open_subnav_2 (this, &#39;subnav_product_43&#39;)"<div id="subnav_product_43" class="my_subnav" style="display:none">
-					<ul>
-						<li><a href="#">电气火灾监控系统</a></li>
-					</ul>
-				</div>-->
-			</li>
-			<li><a href="productWSDKZQ.asp">温湿度控制器</a></li>
-			<li><a href="productGYDDXSQ.asp">高压带电显示器</a></li>
+			<li><a href="product1.asp" >智能测控仪表</a></li>
+			<li><a href="product2.asp">电能质量分析仪</a></li>
+			<li><a href="product3.asp">开关状态综合指示仪</a></li>
+			<li><a href="product4.asp">智能操控装置</a></li>
+			<li><a href="product5.asp">温湿度控制器</a></li>
+			<li><a href="product5.asp">高压带电指示仪</a></li>
+			<li><a href="product5.asp">SF6泄露报警系统</a></li>
+			<li><a href="product5.asp">电力监控系统</a></li>
 		</ul>
 	</div>
 

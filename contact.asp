@@ -20,24 +20,29 @@
         <div id="content_right">
            <div id="title" class="rtit">联系我们</div>
             <div class="rcon">
-                <p style="font-size: 14px">公司总部</p>
+                <p style="font-size: 20px"><b>南京汇荣电气系统有限公司</b></p>
 				<p>&nbsp;</p>
-				<p>地 址：江苏省南京市XXXXXXX号 211100 <br />
-				市场部<br />
-				电话：（025）xxxxxxxx、 xxxxxxxx、 xxxxxxxx &nbsp;|&nbsp;传 真：（025）xxxxxxxx  &nbsp;|&nbsp;E-Mail：xxxxxxxx@hero.com<br />
-				技术服务部<br />
-				电话：（025）xxxxxxxx、 xxxxxxxx &nbsp;|&nbsp; 传 真：（025）xxxxxxxx  &nbsp;|&nbsp;E-Mail：xxxxxxxx@hero.com<br />
-				办公室<br />
-				电话：（025）xxxxxxxx &nbsp;|&nbsp;传真：（025）xxxxxxxx &nbsp;|&nbsp; E-Mail:xxxxxxxx@hero.com</p>
+				<p>&nbsp;</p>
+				<p style="font-size: 14px">地 址：南京市江宁区庄排路157号胜太科技园1号楼2F <p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p style="font-size: 20px"><b>营销中心</b><p>
+				<p>&nbsp;</p>
+				<p style="font-size: 14px">电话：（025）83375098 &nbsp;|&nbsp;传 真：（025）83377156 &nbsp;|&nbsp;E-Mail：sales@hero-electric.com.cn<p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p style="font-size: 20px"><b>技术支持</b><p>
+				<p>&nbsp;</p>				
+				<p style="font-size: 14px">电话：（025）52122421 &nbsp;|&nbsp;传 真：（025）52122421 &nbsp;|&nbsp;E-Mail：1343493544@qq.com<p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p style="font-size: 20px"><b>质量反馈</b><p>
+				<p>&nbsp;</p>
+				<p style="font-size: 14px">电话：（025）52122402 &nbsp;|&nbsp;传 真：（025）52122402 &nbsp;|&nbsp;E-Mail：496199637@qq.com<p>
 				<p><br />&nbsp;</p>
-				<p style="font-size: 14px">办事处</p>
-				<p>&nbsp;</p>
-				<p><font face="Verdana">北京办事处&nbsp;经理：夏&nbsp;&nbsp;&nbsp;总（186XXXXXXXX）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;业务区域：北京</font></p>
-				<p><font face="Verdana">成都办事处&nbsp;经理：夏经理（186XXXXXXXX）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;业务区域：四川、重庆&nbsp;</font></p>
-				<p><font face="Verdana">广州办事处&nbsp;经理：夏经理（186XXXXXXXX）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;业务区域：广东、海南&nbsp;</font></p>
-				<p><font face="Verdana">杭州办事处&nbsp;经理：夏经理（186XXXXXXXX）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;业务区域：浙江</font><span style="font-family: Verdana; ">、</span><span style="font-family: Verdana; ">福建、江西</span><span style="font-family: Verdana; ">&nbsp;</span></p>
-				<p><font face="Verdana">济南办事处&nbsp;经理：夏经理（186XXXXXXXX）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;业务区域：山东、安徽&nbsp;</font></p>
-				<p><font face="Verdana">昆明办事处&nbsp;经理：夏经理（186XXXXXXXX）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;业务区域：云南、广西、贵州&nbsp;</font></p>
 				
 			</div>
         </div>
